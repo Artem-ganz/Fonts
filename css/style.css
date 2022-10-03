@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container {
+    width: 100%;
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'pt_sans';
+}
+
+.logo-holder {
+    margin-bottom: 96px;
+}
+
+section {
+    margin: 0 0 70px;
+}
+
+h2 {
+    font-family: 'francois_one';
+    font-size: 36px;
+    line-height: 48px;
+
+    height: 48px;
+    margin-bottom: 40px;
+}
+
+sup {
+    font-family: 'farro';
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    max-width: 100px;
+    height: 20px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    margin-bottom: 40px;
+}
+
+mark {
+    background-color: rgb(193, 192, 192);
+}
